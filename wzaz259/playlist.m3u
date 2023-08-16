@@ -1,85 +1,83 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Coco-hot2k" tvg-logo="https://img.strpst.com/thumbs/1692228460/122175492_webp" group-title="2023-08-17 07:27:40" ,Coco-hot2k
+#EXTINF:-1 tvg-name="Coco-hot2k" tvg-logo="https://img.strpst.com/thumbs/1692228586/122175492_webp" group-title="2023-08-17 07:29:46" ,Coco-hot2k
 https://edge-hls.doppiocdn.com/hls/122175492/master/122175492.m3u8
-#EXTINF:-1 tvg-name="Elena----" tvg-logo="https://img.strpst.com/thumbs/1692228460/75130636_webp" group-title="2023-08-17 07:27:40" ,Elena----
-https://edge-hls.doppiocdn.com/hls/75130636/master/75130636.m3u8
-#EXTINF:-1 tvg-name="ChineseXiaoQi" tvg-logo="https://img.strpst.com/thumbs/1692228460/117908276_webp" group-title="2023-08-17 07:27:40" ,ChineseXiaoQi
+#EXTINF:-1 tvg-name="ChineseXiaoQi" tvg-logo="https://img.strpst.com/thumbs/1692228586/117908276_webp" group-title="2023-08-17 07:29:46" ,ChineseXiaoQi
 https://edge-hls.doppiocdn.com/hls/117908276/master/117908276.m3u8
-#EXTINF:-1 tvg-name="LisaShow_2k" tvg-logo="https://img.strpst.com/thumbs/1692228460/124500824_webp" group-title="2023-08-17 07:27:40" ,LisaShow_2k
-https://edge-hls.doppiocdn.com/hls/124500824/master/124500824.m3u8
-#EXTINF:-1 tvg-name="SNAKEgirl0" tvg-logo="https://img.strpst.com/thumbs/1692228460/114769587_webp" group-title="2023-08-17 07:27:40" ,SNAKEgirl0
-https://edge-hls.doppiocdn.com/hls/114769587/master/114769587.m3u8
-#EXTINF:-1 tvg-name="DancerSaKi_" tvg-logo="https://img.strpst.com/thumbs/1692228460/114518597_webp" group-title="2023-08-17 07:27:40" ,DancerSaKi_
-https://edge-hls.doppiocdn.com/hls/114518597/master/114518597.m3u8
-#EXTINF:-1 tvg-name="Eup_Mona" tvg-logo="https://img.strpst.com/thumbs/1692228460/105515374_webp" group-title="2023-08-17 07:27:40" ,Eup_Mona
+#EXTINF:-1 tvg-name="Elena----" tvg-logo="https://img.strpst.com/thumbs/1692228586/75130636_webp" group-title="2023-08-17 07:29:46" ,Elena----
+https://edge-hls.doppiocdn.com/hls/75130636/master/75130636.m3u8
+#EXTINF:-1 tvg-name="Eup_Mona" tvg-logo="https://img.strpst.com/thumbs/1692228586/105515374_webp" group-title="2023-08-17 07:29:46" ,Eup_Mona
 https://edge-hls.doppiocdn.com/hls/105515374/master/105515374.m3u8
-#EXTINF:-1 tvg-name="Lisa_SaSa" tvg-logo="https://img.strpst.com/thumbs/1692228460/108275938_webp" group-title="2023-08-17 07:27:40" ,Lisa_SaSa
-https://edge-hls.doppiocdn.com/hls/108275938/master/108275938.m3u8
-#EXTINF:-1 tvg-name="Agatha_0418" tvg-logo="https://img.strpst.com/thumbs/1692228460/110955057_webp" group-title="2023-08-17 07:27:40" ,Agatha_0418
+#EXTINF:-1 tvg-name="SNAKEgirl0" tvg-logo="https://img.strpst.com/thumbs/1692228586/114769587_webp" group-title="2023-08-17 07:29:46" ,SNAKEgirl0
+https://edge-hls.doppiocdn.com/hls/114769587/master/114769587.m3u8
+#EXTINF:-1 tvg-name="LisaShow_2k" tvg-logo="https://img.strpst.com/thumbs/1692228586/124500824_webp" group-title="2023-08-17 07:29:46" ,LisaShow_2k
+https://edge-hls.doppiocdn.com/hls/124500824/master/124500824.m3u8
+#EXTINF:-1 tvg-name="DancerSaKi_" tvg-logo="https://img.strpst.com/thumbs/1692228586/114518597_webp" group-title="2023-08-17 07:29:46" ,DancerSaKi_
+https://edge-hls.doppiocdn.com/hls/114518597/master/114518597.m3u8
+#EXTINF:-1 tvg-name="Agatha_0418" tvg-logo="https://img.strpst.com/thumbs/1692228586/110955057_webp" group-title="2023-08-17 07:29:46" ,Agatha_0418
 https://edge-hls.doppiocdn.com/hls/110955057/master/110955057.m3u8
-#EXTINF:-1 tvg-name="Swag_TATA" tvg-logo="https://img.strpst.com/thumbs/1692228460/91984301_webp" group-title="2023-08-17 07:27:40" ,Swag_TATA
+#EXTINF:-1 tvg-name="Lisa_SaSa" tvg-logo="https://img.strpst.com/thumbs/1692228586/108275938_webp" group-title="2023-08-17 07:29:46" ,Lisa_SaSa
+https://edge-hls.doppiocdn.com/hls/108275938/master/108275938.m3u8
+#EXTINF:-1 tvg-name="Swag_TATA" tvg-logo="https://img.strpst.com/thumbs/1692228586/91984301_webp" group-title="2023-08-17 07:29:46" ,Swag_TATA
 https://edge-hls.doppiocdn.com/hls/91984301/master/91984301.m3u8
-#EXTINF:-1 tvg-name="-Future_" tvg-logo="https://img.strpst.com/thumbs/1692228460/108918450_webp" group-title="2023-08-17 07:27:40" ,-Future_
-https://edge-hls.doppiocdn.com/hls/108918450/master/108918450.m3u8
-#EXTINF:-1 tvg-name="Yanny-I" tvg-logo="https://img.strpst.com/thumbs/1692228460/122808504_webp" group-title="2023-08-17 07:27:40" ,Yanny-I
+#EXTINF:-1 tvg-name="Yanny-I" tvg-logo="https://img.strpst.com/thumbs/1692228586/122808504_webp" group-title="2023-08-17 07:29:46" ,Yanny-I
 https://edge-hls.doppiocdn.com/hls/122808504/master/122808504.m3u8
-#EXTINF:-1 tvg-name="_Yobboii_" tvg-logo="https://img.strpst.com/thumbs/1692228460/124607518_webp" group-title="2023-08-17 07:27:40" ,_Yobboii_
+#EXTINF:-1 tvg-name="-Future_" tvg-logo="https://img.strpst.com/thumbs/1692228586/108918450_webp" group-title="2023-08-17 07:29:46" ,-Future_
+https://edge-hls.doppiocdn.com/hls/108918450/master/108918450.m3u8
+#EXTINF:-1 tvg-name="_Yobboii_" tvg-logo="https://img.strpst.com/thumbs/1692228586/124607518_webp" group-title="2023-08-17 07:29:46" ,_Yobboii_
 https://edge-hls.doppiocdn.com/hls/124607518/master/124607518.m3u8
-#EXTINF:-1 tvg-name="Susan-bb" tvg-logo="https://img.strpst.com/thumbs/1692228460/111696462_webp" group-title="2023-08-17 07:27:40" ,Susan-bb
-https://edge-hls.doppiocdn.com/hls/111696462/master/111696462.m3u8
-#EXTINF:-1 tvg-name="Mo-Mo_" tvg-logo="https://img.strpst.com/thumbs/1692228460/122702322_webp" group-title="2023-08-17 07:27:40" ,Mo-Mo_
-https://edge-hls.doppiocdn.com/hls/122702322/master/122702322.m3u8
-#EXTINF:-1 tvg-name="Ozi_Zhang" tvg-logo="https://img.strpst.com/thumbs/1692228460/59424505_webp" group-title="2023-08-17 07:27:40" ,Ozi_Zhang
+#EXTINF:-1 tvg-name="Ozi_Zhang" tvg-logo="https://img.strpst.com/thumbs/1692228586/59424505_webp" group-title="2023-08-17 07:29:46" ,Ozi_Zhang
 https://edge-hls.doppiocdn.com/hls/59424505/master/59424505.m3u8
-#EXTINF:-1 tvg-name="MissLuLu001" tvg-logo="https://img.strpst.com/thumbs/1692228460/82371834_webp" group-title="2023-08-17 07:27:40" ,MissLuLu001
+#EXTINF:-1 tvg-name="Mo-Mo_" tvg-logo="https://img.strpst.com/thumbs/1692228586/122702322_webp" group-title="2023-08-17 07:29:46" ,Mo-Mo_
+https://edge-hls.doppiocdn.com/hls/122702322/master/122702322.m3u8
+#EXTINF:-1 tvg-name="Susan-bb" tvg-logo="https://img.strpst.com/thumbs/1692228586/111696462_webp" group-title="2023-08-17 07:29:46" ,Susan-bb
+https://edge-hls.doppiocdn.com/hls/111696462/master/111696462.m3u8
+#EXTINF:-1 tvg-name="MissLuLu001" tvg-logo="https://img.strpst.com/thumbs/1692228586/82371834_webp" group-title="2023-08-17 07:29:46" ,MissLuLu001
 https://edge-hls.doppiocdn.com/hls/82371834/master/82371834.m3u8
-#EXTINF:-1 tvg-name="Varec_0" tvg-logo="https://img.strpst.com/thumbs/1692228460/117940578_webp" group-title="2023-08-17 07:27:40" ,Varec_0
-https://edge-hls.doppiocdn.com/hls/117940578/master/117940578.m3u8
-#EXTINF:-1 tvg-name="Michi_sweet" tvg-logo="https://img.strpst.com/thumbs/1692228460/115648767_webp" group-title="2023-08-17 07:27:40" ,Michi_sweet
-https://edge-hls.doppiocdn.com/hls/115648767/master/115648767.m3u8
-#EXTINF:-1 tvg-name="KcupAnna" tvg-logo="https://img.strpst.com/thumbs/1692228460/63882971_webp" group-title="2023-08-17 07:27:40" ,KcupAnna
-https://edge-hls.doppiocdn.com/hls/63882971/master/63882971.m3u8
-#EXTINF:-1 tvg-name="Lady-Gaga_" tvg-logo="https://img.strpst.com/thumbs/1692228460/119778560_webp" group-title="2023-08-17 07:27:40" ,Lady-Gaga_
-https://edge-hls.doppiocdn.com/hls/119778560/master/119778560.m3u8
-#EXTINF:-1 tvg-name="Swag-xiao" tvg-logo="https://img.strpst.com/thumbs/1692228460/122208800_webp" group-title="2023-08-17 07:27:40" ,Swag-xiao
-https://edge-hls.doppiocdn.com/hls/122208800/master/122208800.m3u8
-#EXTINF:-1 tvg-name="Dream_Kina" tvg-logo="https://img.strpst.com/thumbs/1692228460/118836103_webp" group-title="2023-08-17 07:27:40" ,Dream_Kina
+#EXTINF:-1 tvg-name="Dream_Kina" tvg-logo="https://img.strpst.com/thumbs/1692228586/118836103_webp" group-title="2023-08-17 07:29:46" ,Dream_Kina
 https://edge-hls.doppiocdn.com/hls/118836103/master/118836103.m3u8
-#EXTINF:-1 tvg-name="xo202306" tvg-logo="https://img.strpst.com/thumbs/1692228460/116383969_webp" group-title="2023-08-17 07:27:40" ,xo202306
-https://edge-hls.doppiocdn.com/hls/116383969/master/116383969.m3u8
-#EXTINF:-1 tvg-name="HK_Anna" tvg-logo="https://img.strpst.com/thumbs/1692228460/106810671_webp" group-title="2023-08-17 07:27:40" ,HK_Anna
+#EXTINF:-1 tvg-name="Michi_sweet" tvg-logo="https://img.strpst.com/thumbs/1692228586/115648767_webp" group-title="2023-08-17 07:29:46" ,Michi_sweet
+https://edge-hls.doppiocdn.com/hls/115648767/master/115648767.m3u8
+#EXTINF:-1 tvg-name="Varec_0" tvg-logo="https://img.strpst.com/thumbs/1692228586/117940578_webp" group-title="2023-08-17 07:29:46" ,Varec_0
+https://edge-hls.doppiocdn.com/hls/117940578/master/117940578.m3u8
+#EXTINF:-1 tvg-name="KcupAnna" tvg-logo="https://img.strpst.com/thumbs/1692228586/63882971_webp" group-title="2023-08-17 07:29:46" ,KcupAnna
+https://edge-hls.doppiocdn.com/hls/63882971/master/63882971.m3u8
+#EXTINF:-1 tvg-name="Lady-Gaga_" tvg-logo="https://img.strpst.com/thumbs/1692228586/119778560_webp" group-title="2023-08-17 07:29:46" ,Lady-Gaga_
+https://edge-hls.doppiocdn.com/hls/119778560/master/119778560.m3u8
+#EXTINF:-1 tvg-name="Swag-xiao" tvg-logo="https://img.strpst.com/thumbs/1692228586/122208800_webp" group-title="2023-08-17 07:29:46" ,Swag-xiao
+https://edge-hls.doppiocdn.com/hls/122208800/master/122208800.m3u8
+#EXTINF:-1 tvg-name="HK_Anna" tvg-logo="https://img.strpst.com/thumbs/1692228586/106810671_webp" group-title="2023-08-17 07:29:46" ,HK_Anna
 https://edge-hls.doppiocdn.com/hls/106810671/master/106810671.m3u8
-#EXTINF:-1 tvg-name="jiajiamei520" tvg-logo="https://img.strpst.com/thumbs/1692228460/124574861_webp" group-title="2023-08-17 07:27:40" ,jiajiamei520
-https://edge-hls.doppiocdn.com/hls/124574861/master/124574861.m3u8
-#EXTINF:-1 tvg-name="LUO-YU" tvg-logo="https://img.strpst.com/thumbs/1692228460/122142758_webp" group-title="2023-08-17 07:27:40" ,LUO-YU
-https://edge-hls.doppiocdn.com/hls/122142758/master/122142758.m3u8
-#EXTINF:-1 tvg-name="smilingangelbaby" tvg-logo="https://img.strpst.com/thumbs/1692228460/123779434_webp" group-title="2023-08-17 07:27:40" ,smilingangelbaby
+#EXTINF:-1 tvg-name="xo202306" tvg-logo="https://img.strpst.com/thumbs/1692228586/116383969_webp" group-title="2023-08-17 07:29:46" ,xo202306
+https://edge-hls.doppiocdn.com/hls/116383969/master/116383969.m3u8
+#EXTINF:-1 tvg-name="smilingangelbaby" tvg-logo="https://img.strpst.com/thumbs/1692228586/123779434_webp" group-title="2023-08-17 07:29:46" ,smilingangelbaby
 https://edge-hls.doppiocdn.com/hls/123779434/master/123779434.m3u8
-#EXTINF:-1 tvg-name="-Starrism_" tvg-logo="https://img.strpst.com/thumbs/1692228460/116856798_webp" group-title="2023-08-17 07:27:40" ,-Starrism_
-https://edge-hls.doppiocdn.com/hls/116856798/master/116856798.m3u8
-#EXTINF:-1 tvg-name="K_Kcup" tvg-logo="https://img.strpst.com/thumbs/1692228460/122274881_webp" group-title="2023-08-17 07:27:40" ,K_Kcup
-https://edge-hls.doppiocdn.com/hls/122274881/master/122274881.m3u8
-#EXTINF:-1 tvg-name="-Annie-01-" tvg-logo="https://img.strpst.com/thumbs/1692228460/118550288_webp" group-title="2023-08-17 07:27:40" ,-Annie-01-
+#EXTINF:-1 tvg-name="-Annie-01-" tvg-logo="https://img.strpst.com/thumbs/1692228586/118550288_webp" group-title="2023-08-17 07:29:46" ,-Annie-01-
 https://edge-hls.doppiocdn.com/hls/118550288/master/118550288.m3u8
-#EXTINF:-1 tvg-name="Kalli_hot96" tvg-logo="https://img.strpst.com/thumbs/1692228460/122566440_webp" group-title="2023-08-17 07:27:40" ,Kalli_hot96
-https://edge-hls.doppiocdn.com/hls/122566440/master/122566440.m3u8
-#EXTINF:-1 tvg-name="Gentle-girl" tvg-logo="https://img.strpst.com/thumbs/1692228460/123059484_webp" group-title="2023-08-17 07:27:40" ,Gentle-girl
-https://edge-hls.doppiocdn.com/hls/123059484/master/123059484.m3u8
-#EXTINF:-1 tvg-name="Be-Sexy" tvg-logo="https://img.strpst.com/thumbs/1692228460/124318829_webp" group-title="2023-08-17 07:27:40" ,Be-Sexy
+#EXTINF:-1 tvg-name="-Starrism_" tvg-logo="https://img.strpst.com/thumbs/1692228586/116856798_webp" group-title="2023-08-17 07:29:46" ,-Starrism_
+https://edge-hls.doppiocdn.com/hls/116856798/master/116856798.m3u8
+#EXTINF:-1 tvg-name="LUO-YU" tvg-logo="https://img.strpst.com/thumbs/1692228586/122142758_webp" group-title="2023-08-17 07:29:46" ,LUO-YU
+https://edge-hls.doppiocdn.com/hls/122142758/master/122142758.m3u8
+#EXTINF:-1 tvg-name="Be-Sexy" tvg-logo="https://img.strpst.com/thumbs/1692228586/124318829_webp" group-title="2023-08-17 07:29:46" ,Be-Sexy
 https://edge-hls.doppiocdn.com/hls/124318829/master/124318829.m3u8
-#EXTINF:-1 tvg-name="Cutie_baby__" tvg-logo="https://img.strpst.com/thumbs/1692228460/122701299_webp" group-title="2023-08-17 07:27:40" ,Cutie_baby__
+#EXTINF:-1 tvg-name="jiajiamei520" tvg-logo="https://img.strpst.com/thumbs/1692228586/124574861_webp" group-title="2023-08-17 07:29:46" ,jiajiamei520
+https://edge-hls.doppiocdn.com/hls/124574861/master/124574861.m3u8
+#EXTINF:-1 tvg-name="Cutie_baby__" tvg-logo="https://img.strpst.com/thumbs/1692228586/122701299_webp" group-title="2023-08-17 07:29:46" ,Cutie_baby__
 https://edge-hls.doppiocdn.com/hls/122701299/master/122701299.m3u8
-#EXTINF:-1 tvg-name="Sexy-Sweets" tvg-logo="https://img.strpst.com/thumbs/1692228460/121311553_webp" group-title="2023-08-17 07:27:40" ,Sexy-Sweets
-https://edge-hls.doppiocdn.com/hls/121311553/master/121311553.m3u8
-#EXTINF:-1 tvg-name="-yiyi-" tvg-logo="https://img.strpst.com/thumbs/1692228460/123071965_webp" group-title="2023-08-17 07:27:40" ,-yiyi-
+#EXTINF:-1 tvg-name="Kalli_hot96" tvg-logo="https://img.strpst.com/thumbs/1692228586/122566440_webp" group-title="2023-08-17 07:29:46" ,Kalli_hot96
+https://edge-hls.doppiocdn.com/hls/122566440/master/122566440.m3u8
+#EXTINF:-1 tvg-name="-yiyi-" tvg-logo="https://img.strpst.com/thumbs/1692228586/123071965_webp" group-title="2023-08-17 07:29:46" ,-yiyi-
 https://edge-hls.doppiocdn.com/hls/123071965/master/123071965.m3u8
-#EXTINF:-1 tvg-name="tutubao" tvg-logo="https://img.strpst.com/thumbs/1692228460/111461032_webp" group-title="2023-08-17 07:27:40" ,tutubao
+#EXTINF:-1 tvg-name="tutubao" tvg-logo="https://img.strpst.com/thumbs/1692228586/111461032_webp" group-title="2023-08-17 07:29:46" ,tutubao
 https://edge-hls.doppiocdn.com/hls/111461032/master/111461032.m3u8
-#EXTINF:-1 tvg-name="Alice-BaoBei" tvg-logo="https://img.strpst.com/thumbs/1692228460/116709036_webp" group-title="2023-08-17 07:27:40" ,Alice-BaoBei
+#EXTINF:-1 tvg-name="Alice-BaoBei" tvg-logo="https://img.strpst.com/thumbs/1692228586/116709036_webp" group-title="2023-08-17 07:29:46" ,Alice-BaoBei
 https://edge-hls.doppiocdn.com/hls/116709036/master/116709036.m3u8
-#EXTINF:-1 tvg-name="Tread_fog" tvg-logo="https://img.strpst.com/thumbs/1692228460/74164740_webp" group-title="2023-08-17 07:27:40" ,Tread_fog
+#EXTINF:-1 tvg-name="Tread_fog" tvg-logo="https://img.strpst.com/thumbs/1692228586/74164740_webp" group-title="2023-08-17 07:29:46" ,Tread_fog
 https://edge-hls.doppiocdn.com/hls/74164740/master/74164740.m3u8
-#EXTINF:-1 tvg-name="cici_333" tvg-logo="https://img.strpst.com/thumbs/1692228460/112591166_webp" group-title="2023-08-17 07:27:40" ,cici_333
-https://edge-hls.doppiocdn.com/hls/112591166/master/112591166.m3u8
-#EXTINF:-1 tvg-name="SlaveBitchgirl" tvg-logo="https://img.strpst.com/thumbs/1692228460/94273265_webp" group-title="2023-08-17 07:27:40" ,SlaveBitchgirl
+#EXTINF:-1 tvg-name="WENDY_SEXTOY" tvg-logo="https://img.strpst.com/thumbs/1692228586/104436592_webp" group-title="2023-08-17 07:29:46" ,WENDY_SEXTOY
+https://edge-hls.doppiocdn.com/hls/104436592/master/104436592.m3u8
+#EXTINF:-1 tvg-name="SlaveBitchgirl" tvg-logo="https://img.strpst.com/thumbs/1692228586/94273265_webp" group-title="2023-08-17 07:29:46" ,SlaveBitchgirl
 https://edge-hls.doppiocdn.com/hls/94273265/master/94273265.m3u8
+#EXTINF:-1 tvg-name="cici_333" tvg-logo="https://img.strpst.com/thumbs/1692228586/112591166_webp" group-title="2023-08-17 07:29:46" ,cici_333
+https://edge-hls.doppiocdn.com/hls/112591166/master/112591166.m3u8
+#EXTINF:-1 tvg-name="Gentle-girl" tvg-logo="https://img.strpst.com/thumbs/1692228586/123059484_webp" group-title="2023-08-17 07:29:46" ,Gentle-girl
+https://edge-hls.doppiocdn.com/hls/123059484/master/123059484.m3u8
