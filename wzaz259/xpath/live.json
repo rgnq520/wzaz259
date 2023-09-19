@@ -3,7 +3,7 @@
     // 首页地址 用于获取 分类和首页推荐
 	"homeUrl": "https://hongkongdollvideo.com/",
     // 分类节点 
-	"cateNode": "//*[@id="side-menu"]/li[1]/a",
+	"cateNode": "//*[@id='side-menu']/li[1]/a",
     // 分类名
 	"cateName": "/text()",
     // 分类id
