@@ -105,13 +105,13 @@
     },
     {
       "key": "csp_xpath_94sm",
-      "name": "94神马(XPath)",
+      "name": "XPath",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/94sm.json"
+      "ext": "./xpath/live.json"
     },
     {
       "key": "push_agent",
