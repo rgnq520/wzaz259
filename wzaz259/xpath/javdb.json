@@ -5,8 +5,26 @@
         "有码周榜": "rankings/movies?p=weekly&t=censored",
         "有码月榜": "rankings/movies?p=monthly&t=censored",
         "无码月榜": "rankings/movies?p=monthly&t=uncensored",
-        "三上悠亚": "actors/Av2e?sort_type=0&t=d"
+        "新有菜": "actors/RJM8?sort_type=0&t=d",
+        "坂道美琉": "actors/vd5z?sort_type=0&t=d",
+        "枫可怜": "actors/kzx6?sort_type=0&t=d",
+        "三上悠亚": "actors/Av2e?sort_type=0&t=d",
+        "河北彩花": "actors/EvkJ?sort_type=0&t=d",
+        "山手梨爱": "actors/9Dqpw?sort_type=0&t=d",
+        "望月彩花": "actors/NxGN?t=d&sort_type=0",
+        "筱田优": "actors/WE4e?sort_type=0&t=d",
+        "樱空桃": "actors/bvW8?sort_type=0&t=d",
+        "葵司": "actors/A5yq?sort_type=0&t=d",
+        "吉沢明歩": "actors/0yVv?sort_type=0&t=d",
+        "水野朝阳": "actors/35re?sort_type=0&t=d",
+        "滕森里惠": "actors/8pk9?sort_type=0&t=d",
+        "大橋未久": "actors/21Jp?sort_type=0&t=d",
+        "前田由美": "actors/mdxn?sort_type=0&t=d",
+        "无码流出": "lists/r7NYN?f=download"
     },
+    "filter":{"4":[
+        {"key":"sort_type","name":"排序","value":[{"n":"发布日期倒序","v":"0"},{"n":"评分倒序","v":"1"},{"n":"热度倒序","v":"2"},{"n":"想看人数倒序","v":"3"},{"n":"看过人数倒序","v":"4"}]}
+    ]},
     "homeVodNode": "//div[@class='item']/a[@class='box']",
     "homeVodName": "/div[@class='video-title']/text()",
     "homeVodId": "/@href",
