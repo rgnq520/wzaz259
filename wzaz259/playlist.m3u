@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="jieer-QQ" tvg-logo="https://img.strpst.com/thumbs/1695636717/122309777_webp" group-title="2023-09-25 18:11:57" ,jieer-QQ
+#EXTINF:-1 tvg-name="jieer-QQ" tvg-logo="https://img.strpst.com/thumbs/1695636868/122309777_webp" group-title="2023-09-25 18:14:28" ,jieer-QQ
 https://edge-hls.doppiocdn.com/hls/122309777/master/122309777.m3u8
-#EXTINF:-1 tvg-name="Amanda168" tvg-logo="https://img.strpst.com/thumbs/1695636717/57267715_webp" group-title="2023-09-25 18:11:57" ,Amanda168
+#EXTINF:-1 tvg-name="Amanda168" tvg-logo="https://img.strpst.com/thumbs/1695636868/57267715_webp" group-title="2023-09-25 18:14:28" ,Amanda168
 https://edge-hls.doppiocdn.com/hls/57267715/master/57267715.m3u8
+#EXTINF:-1 tvg-name="xxx_MAYA_xxx" tvg-logo="https://img.strpst.com/thumbs/1695636868/124823952_webp" group-title="2023-09-25 18:14:28" ,xxx_MAYA_xxx
+https://edge-hls.doppiocdn.com/hls/124823952/master/124823952.m3u8
