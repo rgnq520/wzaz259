@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;d5a5fbed39e0451e8f201f8bf53f276c",
+  "spider": "./custom_spider.jar;md5;e2530938addfd3e02ed7a3df35dd3037",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "sites": [
     {
@@ -33,9 +33,9 @@
     },
     {
       "key": "xpath",
-      "name": "JAVDB",
+      "name": "JAVDB新",
       "type": 3,
-      "api": "csp_XPathFilter",
+      "api": "csp_XPathFilter2",
       "searchable": 1,
       "changeable": 1,
       "filterable": 1,
