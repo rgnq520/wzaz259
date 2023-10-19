@@ -1,0 +1,99 @@
+{
+	"ua": "",
+	"homeUrl": "https://hongkongdollvideo.com",
+	"cateNode": "//ul[contains(@id,'side-menu')]/li/a",
+	"cateName": "/text()",
+	"cateId": "/@href",
+	"cateIdR": "https://hongkongdollvideo.com/(.*)/",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+	"cateManual":  {},
+    // 首页推荐视频的节点
+	"homeVodNode": "//div[@class='thumb']/a",
+    // 首页推荐视频的名称
+	// "homeVodName": "/img/@alt",
+	"homeVodName": "/img/@alt",
+    // 二次处理正则
+    "homeVodNameR": "",
+    // 首页推荐视频的id
+	"homeVodId": "/@href",
+    // 二次处理正则
+	"homeVodIdR": "https://hongkongdollvideo.com/video/([a-zA-Z0-9]*).html",
+    // 首页推荐视频的图片
+	"homeVodImg": "/img/@data-src",
+    // 二次处理正则
+    "homeVodImgR":  "",
+    // 首页推荐视频的简介
+	"homeVodMark": "/div[class='data']/text()",
+    // 二次处理正则
+    "homeVodMarkR": "",
+    // 分类页地址 {cateId} 分类id {catePg} 当前页
+	"cateUrl": "https://hongkongdollvideo.com/{cateId}/{catePg}.html",
+	"cateVodNode": "//div[@class='thumb']/a",
+	"cateVodName": "/img/@alt",
+	"cateVodId": "/@href",
+	"cateVodIdR": "https://hongkongdollvideo.com/video/([a-zA-Z0-9]*).html",
+	"cateVodImg":  "/img/@data-src",
+	"cateVodMark": "/div[class='data']/text()",
+    // 详情页地址 用于获取详情页信息 及 播放列表和地址
+	"dtUrl": "https://hongkongdollvideo.com/video/{vid}.html",
+	"dtNode": "//html",
+    // 视频名
+	"dtName": "//meta[@property='og:title']/@content",
+	"dtNameR": "",
+    // 视频图片
+	"dtImg": "//meta[@property='og:image']/@content",
+	"dtImgR": "",
+    // // 视频分类
+	// "dtCate": "",
+	// "dtCateR": "",
+    // // 视频年份
+	// "dtYear": "",
+	// "dtYearR": "",
+    // // 视频地区
+	// "dtArea": "",
+	// "dtAreaR": "",
+    // // 视频状态
+	// "dtMark": "",
+	// "dtMarkR": "",
+    // // 主演
+	// "dtActor": "",
+	// "dtActorR": "",
+    // // 导演
+	// "dtDirector": "",
+	// "dtDirectorR": "",
+    // 视频简介
+	"dtDesc": "/meta[@property='og:description']/@content",
+	"dtDescR": "",
+    // 播放源节点
+	"dtFromNode": "",
+    // 播放源名称
+	"dtFromName": "",
+    // 二次处理正则
+	"dtFromNameR": "",
+    // 播放列表节点
+	"dtUrlNode": "",
+    // 播放地址节点
+	"dtUrlSubNode": "//meta[@property='og:url']",
+    // 播放地址
+	"dtUrlId": "/@content",
+    // 二次处理正则
+	"dtUrlIdR": "https://hongkongdollvideo.com/video/([a-zA-Z0-9]*).html",
+    // 剧集名称
+	"dtUrlName": "",
+    // 二次处理正则
+	"dtUrlNameR": "",
+    // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+	"playUrl": "https://hongkongdollvideo.com/video/{vid}.html",
+    // 解析webview的user-agent
+	"playUa": "",
+    // 搜索地址
+	// "searchUrl": "http://www.9rmb.com/search?wd={wd}",
+	"searchUrl": "https://hongkongdollvideo.com/search/{wd}/",
+	
+	"scVodNode": "//div[@class='thumb']/a",
+	"scVodName": "/img/@alt",
+	"scVodId": "/@href",
+	"scVodIdR": "",
+	"scVodImg":  "/img/@data-src",
+	"scVodMark": "/button/text()"
+}
