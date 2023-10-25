@@ -49,6 +49,14 @@
       "ext": {
         "drives": [
           {
+            "name": "本机AList",
+            "server": "http://127.0.0.1:5244",
+            "login": {
+              "username": "admin",
+              "password": "123456"
+            }
+          },
+          {
             "name": "XIAO MI6",
             "server": "http://192.168.31.57:5244",
             "login": {
