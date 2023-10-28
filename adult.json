@@ -1,16 +1,16 @@
 {
-  "spider": "./custom_spider.jar;md5;10feff580e52dea747f9b90972adcdae",
+  "spider": "./custom_spider.jar;md5;8296b113724cd44f4086841048ad3585",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
       "name": "TV LIVE",
       "type": 0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/rgnq520/wzaz259/dev/wzaz259/playlist.txt"
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/rgnq520/wzaz259/dev/wzaz259/playlist.txt"
     },
     {
       "name": "LIVE",
       "type": 0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/rgnq520/wzaz259/dev/wzaz259/live.txt"
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/rgnq520/wzaz259/dev/wzaz259/live.txt"
     },
     {
       "name": "初秋语",
@@ -20,12 +20,12 @@
     {
       "name": "YanG",
       "type": 0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"
     },
     {
       "name": "atsushi",
       "type": 0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"
     },
     {
       "name": "小武哥",
@@ -72,6 +72,15 @@
               "password": "123456"
             }
            
+          },
+          {
+            "name": "PC_AList_100",
+            "server": "http://192.168.31.100:5244",
+            "login": {
+              "username": "admin",
+              "password": "123456"
+            }
+           
           }
         ]
       }
@@ -95,6 +104,30 @@
       "style": {
         "type": "rect",
         "ratio": 1.485
+      }
+    },
+    {
+      "key": "chat",
+      "name": "ST直播",
+      "type": 3,
+      "api": "csp_StripChat",
+      "searchable": 0,
+      "ext": "{'proxy':'192.168.31.101:10809'}",
+      "style": {
+        "type": "rect",
+        "ratio": 0.5625
+      }
+    },
+    {
+      "key": "chatp",
+      "name": "ST直播(本地代理)",
+      "type": 3,
+      "api": "csp_StripChat",
+      "searchable": 0,
+      "ext": "{'proxy':'127.0.0.1:10809'}",
+      "style": {
+        "type": "rect",
+        "ratio": 0.5625
       }
     },
     {
