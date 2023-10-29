@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;8296b113724cd44f4086841048ad3585",
+  "spider": "./custom_spider.jar;md5;f7dea1078cd92859c1862ac51e0d9ff5",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
@@ -87,13 +87,23 @@
     },
     {
       "key": "javDB",
-      "name": "JAVDB",
+      "name": "JAVDB(xpath)",
       "type": 3,
       "api": "csp_XPathFilter2",
       "searchable": 1,
       "changeable": 1,
       "filterable": 1,
       "ext":"./xpath/javdb.json"
+    },
+    {
+      "key": "javDB2",
+      "name": "JAVDB",
+      "type": 3,
+      "api": "csp_Javdb",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext":"https://gh-proxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt"
     },
     {
       "key": "18AV",

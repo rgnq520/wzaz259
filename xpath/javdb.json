@@ -1,12 +1,11 @@
 {
     "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
-    "cookie":"theme=auto; locale=zh; over18=1; _ym_uid=1695875390395265696; _ym_d=1695875390; list_mode=v; _jdb_session=yBD6hRldAc%2BKv%2F84Z6jC%2FtoHarpHVLpvs6oqloQXtq%2BSCSP5suKkbClcf%2F%2FguNc4qizjzOmuCRfdg5Yc84fqV60Q2niXb7DO4jugU7bP056HvZ4X1MfpYojg2OeBXSlINhXmGXKPrmyq7v%2BjjLI5seIcbA3cMg4axkUaqDhmsKKZJX4NH2PcuieeSA43BGF0Rt7aHF3IlelOa20ztoitWuuX7Y3OWB7ED2bH7aqKyAWOosAg45lSqBYz1W6vfRINMFIB7WRxzMq74js1D9%2FBpvsRYEjph7gl4t%2BngaggQ0%2B7QSYen2TBsykF78MhMytFmYOxvWU%2BsYS4JzfwdTVtP%2BneTbCyj8EGo46pIak7iIDfQckMy%2BjfBavcKgIemLn5t9TwHCah1siWiy%2FUiL%2FdBfziarbNL%2BtKV%2B3%2BjeGKkY0%2BpoxKY2wgcQJhIuMjV9TL%2F6KrvNW1lLMp15dZuZp9F6O7xqaS%2BA%3D%3D--rDr4ZD7Iw4vCuN2u--ylM2oJ1chS2fgS3fHzwqlA%3D%3D; cf_clearance=MwgFfRurNKdt5pgahHX3cU69bJATg18vB0UTLtg2i.Q-1697857197-0-1-756bf1fc.af701acd.1c7177ae-0.2.1697857197; _ym_isad=1",
+    "cookie":"theme=auto; locale=zh; over18=1; _ym_uid=1695875390395265696; _ym_d=1695875390; list_mode=h; _jdb_session=GZmAjHjtVqIkjqo%2BzUVRjjYX%2FZXGuZt9%2F023nkRt%2BNdfoc89s%2B4HDK5mGIU5F4WJJbO2afE2shLtIKfpa%2BfQ7bH2POqW5aunsvPdmpcYqw6A%2FOUmpgUDt5RD7C8mMiq0mnXwkCkAkQmGgkJK0HmSlWvnKGJk%2By1u%2FqHrzT5tNknjVUOW6ye725b9RVjZUJWKqTwoVHd6r47boo8gLlitG%2FhVvc4NWapPKgQX3gJq5FH9O9QZIbkSMI0VbPqXVtftcTAPmtlZyeGgI5uFamIUujrZgj%2F9VlOU2CVW2Qjii%2FsxlPZZCBh5dQju%2BjIvbi14cUApHydOgVpsNxLEbfT32c5Pd0Ou6%2FpvWm%2B7307PjjgbR%2FE1Rh%2BCRUWh%2B8LOdfk0Umr27PnnKVCdr%2FnI2k01U0X39dHAAWAlemuQj5EfVfAknXGOBqqTi%2FcKcCzvOOm4rFn5ttWU%2Ft8ge2sG4m3JA6%2BcGC67cw%3D%3D--W8FVMLX%2FebsN3j6o--iT%2BYVp3NiWk7y9MkOMQysw%3D%3D; cf_clearance=KZ13wo2XUjhYq8BcgFMtqQUW8cGVrUHBMQ5ct1m3Kog-1698508603-0-1-f7ed86d6.7449556c.a13e5b20-0.2.1698508603",
     "homeUrl": "https://javdb522.com",
     "cateManual": {
         "有码日榜": "rankings/movies?p=daily&t=censored",
         "有码周榜": "rankings/movies?p=weekly&t=censored",
         "有码月榜": "rankings/movies?p=monthly&t=censored",
-        "无码周榜": "rankings/movies?p=weekly&t=uncensored",
         "无码月榜": "rankings/movies?p=monthly&t=uncensored",
         "葵司": "actors/A5yq?t=d",
         "新有菜": "actors/RJM8?t=d",
@@ -58,7 +57,7 @@
     "cateVodIdR": "/v/([0-9a-zA-Z]+)",
     "cateVodImg": "/div[1]/img/@src",
     "cateVodMark": "/div[@class='meta']/text()",
-    "cateVodMarkR": "\\S?([0-9]\\d*\\.\\d*|0\\.\\d*[0-9]\\d*分)",
+    "cateVodMarkR": "",
     "dtUrl": "https://javdb522.com/v/{vid}",
     "dtNode": "//div[@class='video-detail']",
     "dtName": "//h2/strong[@class='current-title']/text()",
