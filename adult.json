@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;f7dea1078cd92859c1862ac51e0d9ff5",
+  "spider": "./custom_spider.jar;md5;498da304d3e0919e5fb8c7ce1924fe3b",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
@@ -85,16 +85,7 @@
         ]
       }
     },
-    {
-      "key": "javDB",
-      "name": "JAVDB(xpath)",
-      "type": 3,
-      "api": "csp_XPathFilter2",
-      "searchable": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext":"./xpath/javdb.json"
-    },
+
     {
       "key": "javDB2",
       "name": "JAVDB",
@@ -103,7 +94,7 @@
       "searchable": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext":"https://gh-proxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt"
+      "ext":"{cookie:\"https://gh-proxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\"}"
     },
     {
       "key": "18AV",
@@ -139,6 +130,16 @@
         "type": "rect",
         "ratio": 0.5625
       }
+    },
+    {
+      "key": "javDB",
+      "name": "JAVDB(xpath)",
+      "type": 3,
+      "api": "csp_XPathFilter2",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext":"./xpath/javdb.json"
     },
     {
       "key": "泥巴",
