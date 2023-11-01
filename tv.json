@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;498da304d3e0919e5fb8c7ce1924fe3b",
+  "spider": "./custom_spider.jar;md5;1c0b26b51599c5a72f139f2bd7e540ce",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
@@ -109,19 +109,31 @@
     },
     {
       "key": "chat",
-      "name": "ST直播",
+      "name": "ST直播💻",
       "type": 3,
       "api": "csp_StripChat",
       "searchable": 0,
       "ext": "{'proxy':'192.168.31.101:10809'}",
       "style": {
         "type": "rect",
-        "ratio": 0.5625
+        "ratio": 1.4
+      }
+    },
+    {
+      "key": "stripchat",
+      "name": "ST直播✈️",
+      "type": 3,
+      "api": "csp_StripChat",
+      "searchable": 0,
+      "ext": "",
+      "style": {
+        "type": "rect",
+        "ratio": 1.4
       }
     },
     {
       "key": "chatp",
-      "name": "ST直播(本地代理)",
+      "name": "ST直播📳",
       "type": 3,
       "api": "csp_StripChat",
       "searchable": 0,
