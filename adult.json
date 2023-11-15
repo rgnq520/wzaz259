@@ -65,6 +65,14 @@
             }
           },
           {
+            "name": "XIAO MI6 Company",
+            "server": "http://192.168.1.120:5244",
+            "login": {
+              "username": "admin",
+              "password": "123456"
+            }
+          },
+          {
             "name": "PC_AList",
             "server": "http://192.168.31.101:5244",
             "login": {
@@ -74,8 +82,8 @@
            
           },
           {
-            "name": "PC_AList_100",
-            "server": "http://192.168.31.100:5244",
+            "name": "PC_AList_137",
+            "server": "http://192.168.1.137:5244",
             "login": {
               "username": "admin",
               "password": "123456"
