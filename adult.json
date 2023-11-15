@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;44badf12675ea11c7048cda3221b9449",
+  "spider": "./custom_spider.jar;md5;b8948a366d4bc16a16b509c158a4d5dc",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
@@ -102,7 +102,7 @@
       "searchable": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext":"{cookie:\"https://gh-proxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\"}"
+      "ext":"{cookie:\"https://gh-proxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://www.javdb523.com/\"}"
     },
     {
       "key": "18AV",
