@@ -1,16 +1,16 @@
 {
   "spider": "./custom_spider.jar;md5;b8948a366d4bc16a16b509c158a4d5dc",
-  "wallpaper": "https://gao.chuqiuyu.tk",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
       "name": "TV LIVE",
       "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/rgnq520/wzaz259/dev/wzaz259/playlist.txt"
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/dev/wzaz259/playlist.txt"
     },
     {
       "name": "LIVE",
       "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/rgnq520/wzaz259/dev/wzaz259/live.txt"
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/dev/wzaz259/live.txt"
     },
     {
       "name": "初秋语",
@@ -20,12 +20,12 @@
     {
       "name": "YanG",
       "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"
     },
     {
       "name": "atsushi",
       "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"
     },
     {
       "name": "小武哥",
@@ -82,8 +82,8 @@
            
           },
           {
-            "name": "PC_AList_137",
-            "server": "http://192.168.1.137:5244",
+            "name": "PC_AList",
+            "server": "http://pc.feng2652.top:5244",
             "login": {
               "username": "admin",
               "password": "123456"
@@ -102,7 +102,7 @@
       "searchable": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext":"{cookie:\"https://gh-proxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://www.javdb523.com/\"}"
+      "ext":"{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://www.javdb523.com/\"}"
     },
     {
       "key": "18AV",
