@@ -57,6 +57,15 @@
             }
           },
           {
+            "name": "PC_AList",
+            "server": "http://pc.feng2652.top:5244",
+            "login": {
+              "username": "admin",
+              "password": "123456"
+            }
+           
+          }
+          {
             "name": "XIAO MI6",
             "server": "http://192.168.31.57:5244",
             "login": {
@@ -66,30 +75,22 @@
           },
           {
             "name": "XIAO MI6 Company",
-            "server": "http://192.168.1.120:5244",
+            "server": "http://mi6.feng2652.top:5244",
             "login": {
               "username": "admin",
               "password": "123456"
             }
           },
           {
-            "name": "PC_AList",
+            "name": "PC_AList_Home",
             "server": "http://192.168.31.101:5244",
             "login": {
               "username": "admin",
               "password": "123456"
             }
            
-          },
-          {
-            "name": "PC_AList",
-            "server": "http://pc.feng2652.top:5244",
-            "login": {
-              "username": "admin",
-              "password": "123456"
-            }
-           
           }
+          
         ]
       }
     },
@@ -121,7 +122,7 @@
       "type": 3,
       "api": "csp_StripChat",
       "searchable": 0,
-      "ext": "{'proxy':'192.168.31.101:10809'}",
+      "ext": "{'proxy':'pc.feng2652.top:10809'}",
       "style": {
         "type": "rect",
         "ratio": 1.4
