@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;09a56318d15cc043d109db7fb8cc6f81",
+  "spider": "./custom_spider.jar;md5;06f1be14aded0a92537717166b5c1ef7",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
@@ -45,7 +45,7 @@
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
         "drives": [
           {
@@ -74,6 +74,14 @@
             }
           },
           {
+            "name": "XIAO MI6 热点",
+            "server": "http://wifi.feng2652.top:5244",
+            "login": {
+              "username": "admin",
+              "password": "123456"
+            }
+          },
+          {
             "name": "XIAO MI6 Company",
             "server": "http://mi6.feng2652.top:5244",
             "login": {
@@ -88,9 +96,7 @@
               "username": "admin",
               "password": "123456"
             }
-           
           }
-          
         ]
       }
     },
@@ -105,6 +111,43 @@
       "filterable": 1,
       "ext":"{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://www.javdb523.com/\"}"
     },
+    {
+      "key": "javDB_folder",
+      "name": "JAV523",
+      "type": 3,
+      "api": "csp_Javdb2",
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext":"{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://www.javdb523.com/\"}"
+    },
+    {
+      "key": "本地",
+      "name": "本地2",
+      "type": 3,
+      "api": "csp_Local2",
+      "searchable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "AList2",
+      "name": "AList2",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://fm.t4tv.hz.cz/json/alist.json"
+    },
+    {
+      "key": "WebDAV",
+      "name": "WebDAV",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://fm.t4tv.hz.cz/json/webdav.json"
+    },
+
     {
       "key": "18AV",
       "name": "仙女",
