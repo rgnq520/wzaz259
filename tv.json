@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;804204b270741313de5f25d57f2c48da",
+  "spider": "./custom_spider.jar;md5;c0e3acbccd4f2003a438ad80288ed6be",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
@@ -102,7 +102,7 @@
     },
 
     {
-      "key": "javDB2",
+      "key": "javDB",
       "name": "JAVDB",
       "type": 3,
       "api": "csp_Javdb",
@@ -112,13 +112,14 @@
       "ext":"{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://www.javdb523.com/\"}"
     },
     {
-      "key": "WebDAV",
-      "name": "WebDAV",
+      "key": "javDB2",
+      "name": "JAVDB2",
       "type": 3,
-      "api": "csp_WebDAV",
+      "api": "csp_Javdb2",
       "searchable": 1,
-      "changeable": 0,
-      "ext": "https://fm.t4tv.hz.cz/json/webdav.json"
+      "changeable": 1,
+      "filterable": 1,
+      "ext":"{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://www.javdb523.com/\"}"
     },
 
     {
@@ -169,7 +170,27 @@
       }
     },
     {
-      "key": "javDB",
+      "key": "玩偶gg",
+      "name": "玩偶gg",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "影視天下第一",
+        "filter": "https://fm.t4tv.hz.cz/json/wogg.json"
+      }
+    },
+    {
+      "key": "短劇",
+      "name": "短劇",
+      "type": 3,
+      "api": "csp_Duanju",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "javDBx",
       "name": "JAVDB(xpath)",
       "type": 3,
       "api": "csp_XPathFilter2",
