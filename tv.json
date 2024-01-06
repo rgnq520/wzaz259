@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;c8b21de6ac3f65cb6753a09a8c6600e3",
+  "spider": "./custom_spider.jar;md5;4ac253f32908d2bbed4f6b06375e10d9",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
@@ -113,13 +113,23 @@
     },
     {
       "key": "javDB2",
-      "name": "JAVDB22",
+      "name": "JAVDB2",
       "type": 3,
       "api": "csp_Javdb2",
       "searchable": 1,
       "changeable": 1,
       "filterable": 1,
       "ext":"{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://www.javdb523.com/\"}"
+    },
+    {
+      "key": "javDBwithoutcookie",
+      "name": "JAVDBNOCOOKIE",
+      "type": 3,
+      "api": "csp_Javdb2",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext":"{url=\"https://www.javdb523.com/\"}"
     },
 
     {

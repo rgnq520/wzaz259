@@ -10,6 +10,50 @@
 			"changeable": 0
 		},
 		{"key":"csp_JavDb","name":"🧲JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":1801,"ext":"http://javdb523.com"},
+		{
+			"key": "玩偶",
+			"name": "玩偶",
+			"type": 3,
+			"api": "csp_Doll",
+			"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,
+			"style": {
+			  "type": "rect",
+			  "ratio": 1.309
+			}
+		  },
+		  {
+			"key": "JavBus",
+			"name": "JavBus",
+			"type": 3,
+			"api": "csp_JavBus",
+			"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,
+			"style": {
+			  "type": "rect",
+			  "ratio": 1.309
+			}
+		  },
+		  {
+			"key": "Jable",
+			"name": "Jable",
+			"type": 3,
+			"api": "csp_Jable",
+			"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,
+			"style": {
+			  "type": "rect",
+			  "ratio": 1.77
+			}
+		  },
+		  {
+			"key": "MissAV",
+			"name": "MissAV",
+			"type": 3,
+			"api": "csp_Miss",
+			"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,
+			"style": {
+			  "type": "rect",
+			  "ratio": 1.777
+			}
+		  },
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
 		{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"},
 		{
