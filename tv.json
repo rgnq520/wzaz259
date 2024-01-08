@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;5cf0d51623e8364aa9041c84d6ddc5e5",
+  "spider": "./custom_spider.jar;md5;da645eec279a5e869993e3b180d186d3",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
@@ -118,7 +118,7 @@
       "searchable": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext":"{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://www.javdb523.com/\"}"
+      "ext":"{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://www.javdb523.com\"}"
     },
     {
       "key": "javDB2",
@@ -128,7 +128,7 @@
       "searchable": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext":"{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://www.javdb523.com/\"}"
+      "ext":"{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://www.javdb523.com\"}"
     },
    
 
