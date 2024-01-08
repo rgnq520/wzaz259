@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;da645eec279a5e869993e3b180d186d3",
+  "spider": "./custom_spider.jar;md5;873e83e3700258c9252d1a49b3316502",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
@@ -39,15 +39,6 @@
     }
   ],
   "sites": [
-    {
-      "key": "JAVDBT",
-      "name": "JAVDBTest",
-      "type": 3,
-      "api": "csp_JavdbTest",
-      "searchable": 1,
-      "changeable": 1,
-      "filterable": 1
-    },
     {
       "key": "AList",
       "name": "AList",
@@ -118,7 +109,7 @@
       "searchable": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext":"{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://www.javdb523.com\"}"
+      "ext":"{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://javdb523.com\"}"
     },
     {
       "key": "javDB2",
@@ -128,7 +119,7 @@
       "searchable": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext":"{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://www.javdb523.com\"}"
+      "ext":"{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://javdb523.com\"}"
     },
    
 
