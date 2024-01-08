@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;c1520b9c6b9b0ce4850af8cec60ba1e4",
+  "spider": "./custom_spider.jar;md5;05825e853fa5ac8b37429ba40d9b6749",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
@@ -39,6 +39,16 @@
     }
   ],
   "sites": [
+    {
+      "key": "JAVDBNOCOOKIE",
+      "name": "JAVDBNOCOOKIE",
+      "type": 3,
+      "api": "csp_Javdb2",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext":"{url=\"https://www.javdb523.com/\"}"
+    },
     {
       "key": "AList",
       "name": "AList",
@@ -899,16 +909,7 @@
         "ratio": 1.33
       }
     },
-    {
-      "key": "javDBwithoutcookie",
-      "name": "JAVDBNOCOOKIE",
-      "type": 3,
-      "api": "csp_Javdb2",
-      "searchable": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext":"{url=\"https://www.javdb523.com/\"}"
-    },
+    
     {
       "key": "push_agent",
       "name": "推送",
