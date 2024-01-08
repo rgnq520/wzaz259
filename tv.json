@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;a991a3c583f3d6fff695b697616ed966",
+  "spider": "./custom_spider.jar;md5;5cf0d51623e8364aa9041c84d6ddc5e5",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
@@ -40,14 +40,13 @@
   ],
   "sites": [
     {
-      "key": "JAVDBNOCOOKIE",
-      "name": "JAVDBNOCOOKIE",
+      "key": "JAVDBT",
+      "name": "JAVDBTest",
       "type": 3,
-      "api": "csp_Javdb2",
+      "api": "csp_JavdbTest",
       "searchable": 1,
       "changeable": 1,
-      "filterable": 1,
-      "ext":"{url=\"https://www.javdb523.com/\"}"
+      "filterable": 1
     },
     {
       "key": "AList",
