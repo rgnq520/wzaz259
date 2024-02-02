@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;1ee62430c447405a83c94a47ac734709",
+  "spider": "./custom_spider.jar;md5;a27e6b5b6e0d69ed93530707dfc9460d",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
@@ -39,6 +39,7 @@
     }
   ],
   "sites": [
+    
     {
       "key": "javDB",
       "name": "JAVDB",
@@ -86,22 +87,6 @@
           },
           {
             "name": "XIAO MI6",
-            "server": "http://192.168.31.57:5244",
-            "login": {
-              "username": "admin",
-              "password": "123456"
-            }
-          },
-          {
-            "name": "XIAO MI6 手机热点",
-            "server": "http://wifi.feng2652.top:5244",
-            "login": {
-              "username": "admin",
-              "password": "123456"
-            }
-          },
-          {
-            "name": "XIAO MI6 Company",
             "server": "http://mi6.feng2652.top:5244",
             "login": {
               "username": "admin",
@@ -109,8 +94,16 @@
             }
           },
           {
-            "name": "PC_AList_Home",
-            "server": "http://192.168.31.101:5244",
+            "name": "XIAO MI6",
+            "server": "http://192.31.57:5244",
+            "login": {
+              "username": "admin",
+              "password": "123456"
+            }
+          },
+          {
+            "name": "XIAO MI6",
+            "server": "http://192.168.31.57:5244",
             "login": {
               "username": "admin",
               "password": "123456"
@@ -176,6 +169,35 @@
       "ext": {
         "token": "影視天下第一",
         "filter": "https://fm.t4tv.hz.cz/json/wogg.json"
+      }
+    },
+    {
+      "key": "哔哩",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://fm.t4tv.hz.cz/json/bili.json",
+        "type": "帕梅拉#太极拳#广场舞#演唱会",
+        "cookie": ""
+      }
+    },
+    {
+      "key": "bili_open",
+      "name": "哔哩貓",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "categories": "短剧#沙雕动画#沙雕穿越#沙雕",
+        "cookie": ""
       }
     },
     {
