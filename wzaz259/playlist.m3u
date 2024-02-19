@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="M--I--A" tvg-logo="https://img.strpst.com/thumbs/1708360055/82290028_webp" group-title="2024-02-20 00:27:35" ,M--I--A
+#EXTINF:-1 tvg-name="M--I--A" tvg-logo="https://img.strpst.com/thumbs/1708360293/82290028_webp" group-title="2024-02-20 00:31:33" ,M--I--A
 https://edge-hls.doppiocdn.com/hls/82290028/master/82290028.m3u8
+#EXTINF:-1 tvg-name="Luckiss" tvg-logo="https://img.strpst.com/thumbs/1708360293/125195669_webp" group-title="2024-02-20 00:31:33" ,Luckiss
+https://edge-hls.doppiocdn.com/hls/125195669/master/125195669.m3u8
