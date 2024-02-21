@@ -46,15 +46,13 @@
       "api": "csp_Javdb",
       "searchable": 1,
       "changeable": 1,
-      "filterable": 1,
-      "ext": "https://javdb523.com"
+      "filterable": 1
     },
-    
     {
       "key": "javDB1",
       "name": "JAVDB1",
       "type": 3,
-      "api": "csp_Javdb",
+      "api": "csp_Javdb1",
       "searchable": 1,
       "changeable": 1,
       "filterable": 1,
