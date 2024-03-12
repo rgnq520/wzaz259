@@ -8,6 +8,16 @@
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/dev/wzaz259/playlist.txt"
     },
     {
+      "name": "PandaTV",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/dev/wzaz259/pandaTV.txt"
+    },
+    {
+      "name": "PandaTV-M3U",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/dev/wzaz259/pandaTV.m3u"
+    },
+    {
       "name": "LIVE",
       "type": 0,
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/dev/wzaz259/live.txt"
@@ -59,6 +69,15 @@
       "changeable": 1,
       "filterable": 1,
       "ext": "{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://javdb524.com\"}"
+    },
+    {
+      "key": "Pandalivetv",
+      "name": "💯韩国┃美女┃直播",
+      "type": 3,
+      "api": "csp_Pandalivetv",
+      "searchable": 0,
+      "changeable": 0,
+      "jar":"./jar/hanguomeinv.jar"
     },
     {
       "key": "AList",
