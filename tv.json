@@ -1,5 +1,5 @@
 ﻿{
-  "spider": "./custom_spider.jar;md5;d4d75a6ac94b099b912b6378217f0a4d",
+  "spider": "./custom_spider.jar;md5;7f0c914e9465d87b3a1b6250621c9d6b",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
@@ -8,14 +8,9 @@
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/dev/wzaz259/playlist.txt"
     },
     {
-      "name": "PandaTV",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/dev/wzaz259/pandaTV.txt"
-    },
-    {
       "name": "PandaTV-M3U",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/dev/wzaz259/pandaTV.m3u"
+      "url": "https://5721004.xyz/player/list.m3u"
     },
     {
       "name": "LIVE",
@@ -72,7 +67,7 @@
     },
     {
       "key": "Pandalivetv",
-      "name": "💯韩国┃美女┃直播",
+      "name": "韩国┃美女┃直播",
       "type": 3,
       "api": "csp_Pandalivetv",
       "searchable": 0,
@@ -146,7 +141,7 @@
       "key": "pandatv",
       "name": "PandaTV",
       "type": 3,
-      "api": "csp_PandaTV",
+      "api": "csp_Panda",
       "searchable": 1,
       "style": {
         "type": "rect",
