@@ -1,5 +1,5 @@
 ﻿{
-  "spider": "./custom_spider.jar;md5;f87cf2bd0071a26bc7d3c6fdf6d0a3ae",
+  "spider": "./custom_spider.jar;md5;cc924e0de130b754b323b07da748975e",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
@@ -10,7 +10,7 @@
     {
       "name": "PandaTV-M3U",
       "type": 0,
-      "url": "https://jinri.3cm.us/player/list.m3u"
+      "url": "https://5721004.xyz/player/list.m3u"
     },
     {
       "name": "LIVE",
@@ -54,7 +54,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://javdb366.com\"}",
+      "ext": "{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://javdb367.com\"}",
       "style": {
         "type": "rect",
         "ratio": 1.4887
@@ -69,7 +69,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://javdb366.com\"}",
+      "ext": "{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://javdb367.com\"}",
       "style": {
         "type": "rect",
         "ratio": 1.4887
@@ -127,18 +127,7 @@
         ]
       }
     }, 
-    {
-      "key": "chat",
-      "name": "ST直播💻",
-      "type": 3,
-      "api": "csp_StripChat",
-      "searchable": 0,
-      "ext": "{'proxy':'pc.feng2652.top:10809'}",
-      "style": {
-        "type": "rect",
-        "ratio": 1.4
-      }
-    },
+    
     {
       "key": "stripchat",
       "name": "ST直播✈️",
@@ -185,40 +174,6 @@
         "ratio": 1.309
       }
     },
-    {
-      "key": "18AV",
-      "name": "仙女",
-      "type": 3,
-      "api": "csp_Eighteen",
-      "searchable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
-    {
-      "key": "玩偶",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_Doll",
-      "searchable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.309
-      }
-    },
-    {
-      "key": "pandatv",
-      "name": "PandaTV",
-      "type": 3,
-      "api": "csp_Panda",
-      "searchable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
-    
     {
       "key": "玩偶gg",
       "name": "玩偶gg",
