@@ -1,5 +1,5 @@
 ﻿{
-  "spider": "./custom_spider.jar;md5;3bea39b1c518b07c6cbd19187c8f7324",
+  "spider": "./custom_spider.jar;md5;aacf3fecb81f1457c4597a0f451ea03e",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
@@ -134,6 +134,7 @@
       "type": 3,
       "api": "csp_StripChat",
       "searchable": 1,
+      "timeout": 60,
       "ext": "",
       "style": {
         "type": "rect",
@@ -146,6 +147,7 @@
       "type": 3,
       "api": "csp_StripChat",
       "searchable": 1,
+      "timeout": 60,
       "ext": "{'proxy':'127.0.0.1:10809'}",
       "style": {
         "type": "rect",
