@@ -1,5 +1,5 @@
 ﻿{
-  "spider": "./custom_spider.jar;md5;ea1cf52bfe258d325530ae6e6692d460",
+  "spider": "./custom_spider.jar;md5;746a058e8ddc8401cba37f671fdec21a",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {"name": "TV LIVE", "type": 0, "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/dev/wzaz259/playlist.txt"},
@@ -58,6 +58,7 @@
     {"key": "stripchat", "name": "ST直播✈️", "type": 3, "api": "csp_StripChat", "searchable": 1, "timeout": 600, "ext": "", "style": {"type": "rect", "ratio": 1.4}},
     {"key": "chatp", "name": "ST直播📳", "type": 3, "api": "csp_StripChat", "searchable": 0, "timeout": 600, "ext": "{'proxy':'127.0.0.1:10809'}", "style": {"type": "rect", "ratio": 1.4}},
     {"key": "Sexbjcam", "name": "SexBJCam", "type": 3, "api": "csp_SexBJCam", "searchable": 1,"timeout":600,"style": {"type": "rect", "ratio": 1.4},"ext":"jinricp,eli05021212,ohhanna,qwas33,o111na,moem9e9,homegirl,imissy0u,okzzzz,100472,2dayday,4ocari,imgroot5,happyy2,54soda,giyoming,cool3333,bongbong486,bom124,myomyo00,5050yourii,onlyone521,lovelypower77,duk970313,stuiliillive,acac88,banhari,nemu00,ekfkawnl7000,luv135,acron5,aszx601"},
+    {"key": "Sexkbj", "name": "SexKBJ", "type": 3, "api": "csp_Sexkbj", "searchable": 1,"timeout":600,"style": {"type": "rect", "ratio": 1.4},"ext":"jinricp,eli05021212,ohhanna,qwas33,o111na,moem9e9,homegirl,imissy0u,okzzzz,100472,2dayday,4ocari,imgroot5,happyy2,54soda,giyoming,cool3333,bongbong486,bom124,myomyo00,5050yourii,onlyone521,lovelypower77,duk970313,stuiliillive,acac88,banhari,nemu00,ekfkawnl7000,luv135,acron5,aszx601"},
     {"key": "Jricp", "name": "Jinricp", "type": 3, "api": "csp_Jinricp", "searchable": 0,"timeout":600,"style": {"type": "rect", "ratio": 1.4}},
     {"key": "18AV", "name": "仙女", "type": 3, "api": "csp_Eighteen", "searchable": 1, "style": {"type": "rect", "ratio": 1.485}},
     {"key": "玩偶", "name": "玩偶", "type": 3, "api": "csp_Doll", "searchable": 1, "style": {"type": "rect", "ratio": 1.309}},
