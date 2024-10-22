@@ -2,9 +2,11 @@
   "spider": "./custom_spider.jar;md5;da2c1d80edc4aa70a741f138e700e4f7",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "lives": [
-    {"name": "TV LIVE", "type": 0, "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/dev/wzaz259/playlist.txt"},
-    {"name": "PandaTV-M3U", "type": 0, "url": "https://5721004.xyz/player/list.m3u"},
-    {"name": "LIVE", "type": 0, "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/dev/wzaz259/live.txt"},
+    {"name": "fanmingming", "type": 0, "url": "https://ghp.ci/https://github.com/fanmingming/live/raw/refs/heads/main/tv/m3u/index.m3u"},
+    {"name": "fanmingming-ipv6", "type": 0, "url": "https://ghp.ci/https://github.com/fanmingming/live/raw/refs/heads/main/tv/m3u/ipv6.m3u"},
+    {"name": "fanmingming-itv", "type": 0, "url": "https://ghp.ci/https://github.com/fanmingming/live/raw/refs/heads/main/tv/m3u/itv.m3u"},
+    {"name": "LIVE", "type": 0, "url": "https://ghp.ci/raw.githubusercontent.com/rgnq520/wzaz259/dev/wzaz259/live.txt"},
+    {"name": "TV LIVE", "type": 0, "url": "https://ghp.ci/raw.githubusercontent.com/rgnq520/wzaz259/dev/wzaz259/playlist.txt"},
     {"name": "初秋语", "type": 0, "url": "./listx.txt"},
     {"name": "糖意", "type": 0, "url": "https://wp.weikete.cc/down.php/c3eecc14547f5e1e468718148c9f762f.txt", "playerType": 1, "epg": "http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png", "pass": true},
     {"name": "YanG", "type": 0, "url": "https://tv.iill.top/m3u/Adult"},
@@ -23,7 +25,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://javdb368.com\"}",
+      "ext": "{cookie:\"https://ghp.ci/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://javdb368.com\"}",
       "style": {"type": "rect", "ratio": 1.4887}
     },
     {
@@ -35,7 +37,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "{cookie:\"https://mirror.ghproxy.com/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://javdb368.com\"}",
+      "ext": "{cookie:\"https://ghp.ci/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://javdb368.com\"}",
       "style": {"type": "rect", "ratio": 1.4887}
     },
     {"key": "stripchat", "name": "ST直播✈️", "type": 3, "api": "csp_StripChat", "searchable": 1, "timeout": 600, "ext": "", "style": {"type": "rect", "ratio": 1.4}},
