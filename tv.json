@@ -1,5 +1,5 @@
 ﻿{
-  "spider": "./custom_spider.jar;md5;2077c7c912e14517e3fd762545e322ca",
+  "spider": "./custom_spider.jar;md5;b128186b6eaaf415f56ef51ab04662c0",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "lives": [
     {"name": "fanmingming", "type": 0, "url": "https://ghp.ci/https://github.com/fanmingming/live/raw/refs/heads/main/tv/m3u/index.m3u"},
@@ -41,6 +41,7 @@
       "style": {"type": "rect", "ratio": 1.4887}
     },
     {"key": "stripchat", "name": "ST直播✈️", "type": 3, "api": "csp_StripChat", "searchable": 1, "timeout": 600, "ext": "", "style": {"type": "rect", "ratio": 1.4}},
+    {"key": "stripol", "name": "ST直播🚀", "type": 3, "api": "csp_StripChat", "searchable": 0, "timeout": 600, "ext": "{'host':'https://zh.stripol.com'}", "style": {"type": "rect", "ratio": 1.4}},
     {"key": "chatp", "name": "ST直播📳", "type": 3, "api": "csp_StripChat", "searchable": 0, "timeout": 600, "ext": "{'proxy':'192.168.31.175:10809'}", "style": {"type": "rect", "ratio": 1.4}},
     {
       "key": "Sexbjcam",
