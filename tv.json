@@ -1,5 +1,5 @@
 ﻿{
-  "spider": "./custom_spider.jar;md5;dc6ba46009b8ee92de3351c540484939",
+  "spider": "./custom_spider.jar;md5;9b988e513f80a81a02cc878e331a15b4",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "lives": [
     {"name": "fanmingming", "type": 0, "url": "https://ghfast.top/https://github.com/fanmingming/live/raw/refs/heads/main/tv/m3u/index.m3u"},
@@ -18,7 +18,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "{cookie:\"https://ghfast.top/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://javdb367.com\"}",
+      "ext": "{cookie:\"https://ghfast.top/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://javdb561.com\"}",
       "style": {"type": "rect", "ratio": 1.4887}
     },
     {
@@ -30,7 +30,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "{cookie:\"https://ghfast.top/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://javdb367.com\"}",
+      "ext": "{cookie:\"https://ghfast.top/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://javdb561.com\"}",
       "style": {"type": "rect", "ratio": 1.4887}
     },
     {"key": "stripchat", "name": "ST直播✈️", "type": 3, "api": "csp_StripChat", "searchable": 1, "timeout": 600, "ext": "", "style": {"type": "rect", "ratio": 1.4}},
