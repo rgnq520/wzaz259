@@ -1,5 +1,5 @@
 ﻿{
-  "spider": "./custom_spider.jar;md5;0f8fbb65d7f2cc354994a82d8678e39e",
+  "spider": "./custom_spider.jar;md5;f061f64196dfea19a1ef9aee1389498c",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "lives": [
     {"name": "fanmingming", "type": 0, "url": "https://ghfast.top/https://github.com/fanmingming/live/raw/refs/heads/main/tv/m3u/index.m3u"},
@@ -45,8 +45,9 @@
       "ext": "{cookie:\"https://ghfast.top/raw.githubusercontent.com/rgnq520/wzaz259/tvbox/cookie.txt\",url=\"https://javdb561.com\"}",
       "style": {"type": "rect", "ratio": 1.4887}
     },
-    {"key": "stripchat", "name": "ST直播✈️", "type": 3, "api": "csp_StripChat", "searchable": 1, "timeout": 600, "ext": "", "style": {"type": "rect", "ratio": 1.4}},
     {"key": "stripol", "name": "ST直播🚀", "type": 3, "api": "csp_StripChat", "searchable": 0, "timeout": 600, "ext": "{'host':'https://zh.stripol.com'}", "style": {"type": "rect", "ratio": 1.4}},
+    {"key": "EMBY", "name": "Emby", "type": 3, "api": "csp_Emby", "searchable": 1, "style": {"type": "rect", "ratio": 0.68}},
+    {"key": "stripchat", "name": "ST直播✈️", "type": 3, "api": "csp_StripChat", "searchable": 1, "timeout": 600, "ext": "", "style": {"type": "rect", "ratio": 1.4}},
     {
       "key": "Sexbjcam",
       "name": "SexBJCam",
@@ -71,7 +72,6 @@
     {"key": "Jricp", "name": "Jinricp", "type": 3, "api": "csp_Jinricp", "searchable": 0, "timeout": 600, "style": {"type": "list"}},
     {"key": "18AV", "name": "仙女", "type": 3, "api": "csp_Eighteen", "searchable": 1, "style": {"type": "rect", "ratio": 1.485}},
     {"key": "玩偶", "name": "玩偶", "type": 3, "api": "csp_Doll", "searchable": 1, "style": {"type": "rect", "ratio": 1.309}},
-    {"key": "EMBY", "name": "Emby", "type": 3, "api": "csp_Emby", "searchable": 1, "style": {"type": "rect", "ratio": 1.309}},
     {"key": "07b96ce7-0791-5f19-9321-ba6085145eef", "name": "91麻豆", "api": "https://91md.me/api.php/provide/vod/at/xml/", "type": 0, "searchable": 2},
     {"key": "泥巴", "name": "泥巴", "type": 3, "api": "csp_NiNi", "searchable": 1, "ext": "1"},
     {"key": "量子", "name": "量子", "type": 0, "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/", "searchable": 1, "changeable": 1, "categories": ["伦理片"]},
